@@ -12,7 +12,7 @@
 <body>
 
 <h1>BOARD post</h1>
-<img src="img/img.png" width="300"/>
+<img src="../img/img.png" width="300"/>
 <div class="table-responsive">
     <table class="table table-striped table-sm">
         <tr>
